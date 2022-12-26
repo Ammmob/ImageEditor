@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/save.png</file>
+        <file>res/pan.png</file>
+        <file>res/crop.png</file>
+        <file>res/undo.png</file>
+        <file>res/flipud.png</file>
+        <file>res/open.png</file>
+        <file>res/retro.png</file>
+        <file>res/close.png</file>
+        <file>res/gray.png</file>
+        <file>res/colorRev.png</file>
+        <file>res/filter.png</file>
+        <file>res/fliplr.png</file>
+        <file>res/rotateR.png</file>
+        <file>res/reset.png</file>
+        <file>res/rotateL.png</file>
+        <file>res/reset1.png</file>
+        <file>res/undo1.png</file>
+        <file>res/saveas.png</file>
+        <file>res/pic.png</file>
+        <file>res/smaller.png</file>
+        <file>res/biger.png</file>
+        <file>res/undo2.png</file>
+        <file>res/blue.png</file>
+        <file>res/sharpen.png</file>
+        <file>res/wave.png</file>
+        <file>res/colorCha.png</file>
+        <file>res/hb1.png</file>
+        <file>res/hb2.png</file>
+        <file>res/mosaic.png</file>
+    </qresource>
+</RCC>
