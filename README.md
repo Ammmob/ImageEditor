@@ -1,4 +1,5 @@
 ### ImageEditor
+OUC/程序设计基础实践/ImageEditor
 #### 项目简介
 一款处理32位BMP位图的图像编辑软件，由C++实现底层逻辑，Qt实现GUI界面设计
 #### 具体介绍
